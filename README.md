@@ -1,5 +1,7 @@
 # ECMA-402 Proposal: Intl.NumberFormat V3
 
+![Stage 2](https://badges.aleen42.com/src/tc39_3.svg)
+
 **Status: Stage 2 (June 2020)**
 
 - Spec: Intl.NumberFormat ([diff](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/diff.html), [proposed](https://tc39.es/proposal-intl-numberformat-v3/out/numberformat/proposed.html))
